@@ -1,0 +1,35 @@
+body{
+    background-color: #EFEFEF;
+    font-family: 'Roboto', sans-serif;
+}
+.box{
+    background-color: white;
+    height: auto;
+    width: 500px;
+    border-radius: 10px;
+    box-shadow: 5px 20px 50px 5px rgba(128, 128, 128, 0.58);
+}
+form{
+    padding: 0px 50px;
+}
+form h5{
+    font-weight: 400;
+    
+}
+form h4{
+    color: #0D6EFD;
+}
+.result-bar {
+    display: flex;
+    height: 25px;
+    min-width: 5%;
+    background-color: #38b673;
+    border-radius: 5px;
+    font-size: 14px;
+    color: #FFFFFF;
+    justify-content: center;
+    align-items: center;
+}
+.result span{
+    font-size: 14px;
+}
